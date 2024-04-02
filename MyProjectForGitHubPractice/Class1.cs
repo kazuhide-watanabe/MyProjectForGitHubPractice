@@ -8,7 +8,7 @@ namespace MyProjectForGitHubPractice
 {
     internal class Class1
     {
-        public alexpp()
+        public Class1()
         {
 
             Console.WriteLine("hi");
